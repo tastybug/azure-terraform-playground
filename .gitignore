@@ -1,0 +1,7 @@
+storage_access_key.txt
+client_secret.txt
+tenant_id.txt
+subscription_id.txt
+env.sh
+storage_account_name.txt
+.terraform*
